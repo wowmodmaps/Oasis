@@ -5,12 +5,10 @@ Client: WotLK 3.3.5a
 Size: 8x8 (64 ADT)
 
 - Textured: ✔️
-
 - Ground Effects: ✖️
-
 - Models: ✖️
-
 - Lighting: ✖️
+- Map/minimap: ✖️
 
 ---
 
